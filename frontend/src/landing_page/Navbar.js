@@ -29,7 +29,7 @@ function Navbar() {
           <form class="d-flex" role="search">
             <ul class="navbar-nav mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">
+                <a class="nav-link active" aria-current="page" href="https://abc-w2of.vercel.app">
                   Signup
                 </a>
               </li>
