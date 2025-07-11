@@ -35,3 +35,6 @@ npm install
 
 cd ../Backend
 npm install
+
+Project frontend link :https://abc-v4sz.vercel.app/
+Dashboard frontend:https://abc-w2of.vercel.app/
